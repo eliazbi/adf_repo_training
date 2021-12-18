@@ -1,0 +1,9 @@
+{
+	"name": "adftrDev",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1132b43d-e22e-4d10-bfe5-a5fc6657e737",
+		"tenantId": "fce18f48-d1e7-4283-943d-eea7c7684377"
+	}
+}
